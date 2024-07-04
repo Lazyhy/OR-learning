@@ -1,0 +1,6 @@
+2024年7月4日
+Java调用cplex解BPVRPTW问题：
+    1. Java下载
+    2. Cplex学术版下载
+    3. 选取下载Java代码调试平台ecplise（下载网址：https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2024-06/R/eclipse-inst-jre-win64.exe）
+    4. eclipse配置cplex环境（教程网址：https://blog.csdn.net/cyj972628089/article/details/125341504）
